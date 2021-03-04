@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Assalam-O-Allaikum Saad!
+=======
+Assalam-O-Allaikum Ali!
+>>>>>>> 50a79d677fa2dee20b21f68bf2b78096dfe746d2
 This is new line.
 This line is added online.
